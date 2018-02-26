@@ -9,3 +9,4 @@ Let's test check-lists
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+Above checklist is an example from [Github's Mastering Markdown guide](https://guides.github.com/features/mastering-markdown/)
